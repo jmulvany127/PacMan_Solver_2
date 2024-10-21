@@ -1,4 +1,4 @@
-# PacMan Solver Agent - Project 1 - KU Leuven Year 4
+# PacMan Solver Agent - Project 2 - KU Leuven Year 4
 
 The goal of part 2 of the project was to model the classic Pacman game as both an adversarial and stochastic search problem. To achieve this, the following algorithms were implemented for multi-agent Pacman:
 
